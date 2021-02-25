@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * Main class to start the application.
  */
+//Turn off
 // @EnableJpaAuditing
 @SpringBootApplication
 public class UserModelApplicationTesting
